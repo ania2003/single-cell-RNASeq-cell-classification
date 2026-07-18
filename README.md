@@ -67,11 +67,9 @@ single-cell-rnaseq-cell-classification/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
-│   └── scrna_cell_classification.ipynb
+├── scrna_cell_classification.ipynb
 ├── data/
 │   └── README.md
-├── figures/
 └── results/
 ```
 
