@@ -1,0 +1,13 @@
+anndata
+imbalanced-learn
+jupyter
+matplotlib
+minisom
+numpy
+pandas
+scanpy
+scikit-learn
+scipy
+tensorflow
+umap-learn
+xgboost
