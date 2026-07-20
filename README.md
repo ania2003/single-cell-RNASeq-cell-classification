@@ -128,8 +128,8 @@ Run the cells in order from the beginning to reproduce the analysis.
 
 ## Authors
 
-LAB RATZ Group
+Ania Rotondi
 
 ## License
 
-This project is intended for educational and academic use. Add an appropriate licence only after confirming that all group members agree and that the dataset and course materials can be redistributed.
+This project is intended for educational and academic use.
